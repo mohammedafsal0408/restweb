@@ -427,7 +427,7 @@ a {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (42).png>)
+![alt text](<Screenshot (41).png>)
 
 ![alt text](<Screenshot (42)-1.png>)
 
