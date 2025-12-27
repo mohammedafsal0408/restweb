@@ -1,0 +1,62 @@
+body {
+  background-image: url("pumpkin-creamy-soup-served-bowl.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.link {
+  display: flex;
+  position: fixed;
+  top: 10;
+  justify-content: space-evenly;
+  width: 800px;
+  height: 55px;
+  font-size: 22px;
+  margin-left: 330px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(73, 18, 65);
+}
+.shopname p {
+  margin-top: 80px;
+  font-size: 60px;
+  font-weight: bolder;
+  color: rgb(78, 22, 72);
+  text-align: center;
+}
+.quote{
+  margin-top: 50px;
+  font-weight: bolder;
+  color: rgb(76, 20, 29);
+  text-align: center;
+}
+.menu {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 80px;
+}
+
+.menu-item {
+  margin: 20px;
+  text-align: center;
+}
+
+.menu-item img {
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 30px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgb(44, 107, 141);
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
